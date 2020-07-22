@@ -1,9 +1,9 @@
 #!/bin/bash
 #autor gnawgnit
-git  clone https://github.com/gnawgnit/repo2.git
-git  remote add origin https://github.com/gnawgnit/repo2.git
+git  clone https://github.com/gnawgnit/repo3.git
+git  remote add origin https://github.com/gnawgnit/repo3.git
 
-cd repo2
+cd repo3
 touch connect.txt
 echo "按:q进入编辑区" >> connect.txt
 clear
